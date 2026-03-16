@@ -1,0 +1,7 @@
+Create a content cluster strategy.
+
+Output:
+- One pillar page topic
+- 5–8 supporting blog topics
+- Suggested internal linking structure
+- Brief description for each supporting blog

@@ -1,0 +1,13 @@
+Create an SEO blog outline using H1, H2, and H3 headings.
+
+Input:
+- Business type
+- Primary keyword
+- Target audience
+- Location (if local SEO)
+
+Output:
+- One H1
+- 4–6 H2s
+- Relevant H3s under each H2
+- SEO-friendly and logical flow

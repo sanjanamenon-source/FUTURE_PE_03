@@ -1,0 +1,8 @@
+Write a long-form SEO blog (800–1200 words) based on the given outline.
+
+Requirements:
+- Conversational yet professional tone
+- Optimized for search intent
+- Include keywords naturally
+- Use short paragraphs and bullet points
+- End with a CTA encouraging booking or contact

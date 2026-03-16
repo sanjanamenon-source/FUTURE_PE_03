@@ -1,0 +1,7 @@
+Adapt the blog content for local SEO.
+
+Requirements:
+- Include city and locality naturally
+- Mention nearby relevance
+- Optimize for "service + city" searches
+- Keep content helpful and non-spammy
